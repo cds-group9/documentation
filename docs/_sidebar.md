@@ -3,7 +3,7 @@
 
 * [Session 0 - Setup](session0.md)
 
-<!-- * Task Description
+* Task Description
 
   * [Overview](overview.md)
   * [Dataset](dataset.md)
@@ -16,7 +16,7 @@
 
 * [Session 4 - Advanced Prediction](session4.md)
 
-* [Submission](submission.md) -->
+* [Submission](submission.md)
 
 * [Compensation](compensation.md)
 
